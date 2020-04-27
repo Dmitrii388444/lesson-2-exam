@@ -78,7 +78,7 @@
 Вывести цифры числа на каждой строчке.
 '''
 
-# integer_number = 2129
+# integer_number = 213329
 #
 # #print(integer_number%10,integer_number//10)
 #
@@ -88,7 +88,7 @@
 ################
 
 # # print('num 5')
-# integer_number = 2129
+# integer_number = 23242129
 # while integer_number>0:
 #     print(integer_number%10)
 #     integer_number = integer_number//10
@@ -137,7 +137,7 @@
 Задача 8
 Дать ответ на вопрос: есть ли среди цифр числа 5?
 '''
-# integer_number = 213413
+# integer_number = 5769784
 # while integer_number>0:
 #     if integer_number%10 == 5:
 #         print('Yes')
@@ -147,7 +147,7 @@
 
 ################
 # print('num 8')
-# integer_number = 2134135
+# integer_number = 5687054
 # while integer_number>0:
 #     if integer_number%10 == 5:
 #         print('Yes')
@@ -161,7 +161,7 @@
 Задача 9
 Найти максимальную цифру в числе
 '''
-# inter_number = 59675
+# inter_number = 55969774
 # maximum = 0
 # # print(max(str(inter_number)))
 # while inter_number != 0:
@@ -172,7 +172,7 @@
 
 ################
 # print('num 9')
-# integer_number = 59675
+# integer_number = 57576959
 # tmp = 0
 # while integer_number>0:
 #     if integer_number%10 >= tmp:
@@ -186,7 +186,7 @@
 Задача 10
 Найти количество цифр 5 в числе
 '''
-# inter_number = 595675
+# inter_number = 55679954
 # count = 0
 # while inter_number != 0:
 #     if inter_number % 10 == 5:
